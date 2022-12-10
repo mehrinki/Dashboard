@@ -1,0 +1,42 @@
+body {
+    background-color: #C0C0C0;
+}
+
+.upcoming-title {
+    padding-top: 3%;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.movie-info {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.movie-infos {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.flux-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flux-box {
+    background: white;
+    color: black;
+}
+
+.buttons {
+    display: inline-block;
+    padding: .5rem 1rem;
+    background-color: limegreen;
+    color: black;
+    width: 100%;
+    text-align: center;
+}
